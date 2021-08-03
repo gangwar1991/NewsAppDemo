@@ -1,2 +1,2 @@
-# Flutter-Beginner-Project
-A set of Flutter projects for beginners
+# Flutter-Demo-News
+A set of Flutter projects for News App
